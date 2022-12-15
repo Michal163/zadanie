@@ -1,4 +1,4 @@
-package com.barstool.zadanie2;
+package com.example.zadania2;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -23,6 +23,8 @@ import android.widget.ImageView;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.zadania2.R;
 
 import java.util.List;
 import java.util.Locale;
@@ -174,3 +176,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+
+// Autor : Mykhailo Bielinskyi
